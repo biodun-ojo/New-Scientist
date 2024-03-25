@@ -1,0 +1,87 @@
+* {
+    border: 1px dashed;    /*to see how all the elements interacts*/
+}
+
+header{
+    border-bottom: 1px solid;
+    border-color: blue;
+}
+
+a{
+    padding: 10px;
+}
+
+.header-first-line{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+.new-scientic{
+    font-size: 29px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.sign-in{
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: rgb(57, 57, 117);
+}
+
+.search-bar{
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: rgb(57, 57, 117);
+}
+
+.theme{
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: rgb(57, 57, 117);
+}
+
+.the-bar{
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: rgb(57, 57, 117);
+}
+
+.explore-section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.explore-topic{
+    display: flex;
+    justify-content: space-between;
+}
+
+.subscribe-button{
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+.three-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.plug-ins{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+
+h6, .main-body-header, .the-link, .date{
+    margin: 5px;
+}
+
+h6{
+    font-size: 20px;
+}
+
+.main-body{
+    width: 750px;
+}
