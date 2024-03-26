@@ -21,28 +21,11 @@ a{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.sign-in{
+.sign-in, .search-bar, .theme, .the-bar{
     border: 1px solid;
     border-radius: 20px;
     border-color: rgb(57, 57, 117);
-}
-
-.search-bar{
-    border: 1px solid;
-    border-radius: 20px;
-    border-color: rgb(57, 57, 117);
-}
-
-.theme{
-    border: 1px solid;
-    border-radius: 20px;
-    border-color: rgb(57, 57, 117);
-}
-
-.the-bar{
-    border: 1px solid;
-    border-radius: 20px;
-    border-color: rgb(57, 57, 117);
+    padding: 10px;
 }
 
 .explore-section{
@@ -58,6 +41,7 @@ a{
 .subscribe-button{
     border: 1px solid;
     border-radius: 10px;
+    padding: 10px;
 }
 
 .three-header{
@@ -122,11 +106,35 @@ h6{
     justify-content: space-between;
 
 }
+
+.pic-par-1, .pic-par-2, .pic-par-3, .pic-par-4{
+    padding: 10px;
+}
 /*the end of the second part */
 
 
 
 /* the third part*/
+.third-body-head{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}    
+
+.colour-box{
+    background-color: rgb(81, 160, 117);
+    border-radius: 20px 0px 0px 0px;
+    height: 60px;
+    width: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.third-header{
+    color: rgb(81, 160, 117);
+    font-size: 22px;
+}
+
 .third-first-five{
     display: flex;
     flex-direction: row;
@@ -142,11 +150,12 @@ h6{
 .th1, .th2, .th3, .th4, .th5, .th6, .th7, .th8, .th9, .th10{
     display: flex;
     flex-direction: row;
-    width: 200px;
+    width: 300px;
 }
 
 .third-numbers{
     padding: 15px;
+    color: rgb(81, 160, 117);
 }
 
 /*the end of the third part*/
