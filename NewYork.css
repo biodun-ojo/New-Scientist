@@ -83,3 +83,16 @@ h6{
 .main-body{
     width: 750px;
 }
+
+.four-pic{
+    display: flex;
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+
+}
+
+.the-four-divs{
+    display: flex;
+    justify-content: left;
+}
