@@ -1,5 +1,5 @@
 
-
+/* the header part */
 header{
     border-bottom: 1px solid;
     border-color: blue;
@@ -65,7 +65,10 @@ a{
     justify-content: space-between;
     align-items: center;
 }
+/* end of header part */
 
+
+/* the main body part */
 .plug-ins{
     display: flex;
     justify-content: space-between;
@@ -83,16 +86,59 @@ h6{
 .main-body{
     width: 750px;
 }
+/* the end of the main part */
 
-.four-pic{
-    display: flex;
-    width: 300px;
-    height: auto;
-    border-radius: 20px;
 
+/* the second part*/
+.second-body{
+    background-color: rgb(16, 41, 61);
+}
+
+.second-body-header{
+    color: white;
 }
 
 .the-four-divs{
     display: flex;
-    justify-content: left;
+    justify-content: space-evenly;
+    padding: 5px;
 }
+
+.pic-1, .pic-2, .pic-3, .pic-4{
+    background-color: white;
+    width: 200px;
+    border-radius: 20px;
+}
+
+.pic-1{
+    width: 200px;
+}
+
+.four-pic{
+    display: flex;
+    width: 200px;
+    height: auto;
+    border-radius: 20px;
+    justify-content: space-between;
+
+}
+/*the end of the second part */
+
+
+
+/* the third part*/
+
+/*the end of the third part*/
+
+
+/*the footer*/
+.footer-body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.download, .social, .subscribe, .support, .tools, .legal-and-privacy{
+    display: flex;
+    flex-direction: column;
+}
+/*the end of the body*/
