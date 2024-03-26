@@ -127,14 +127,44 @@ h6{
 
 
 /* the third part*/
+.third-first-five{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.third-second-five{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.th1, .th2, .th3, .th4, .th5, .th6, .th7, .th8, .th9, .th10{
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+}
+
+.third-numbers{
+    padding: 15px;
+}
 
 /*the end of the third part*/
 
 
 /*the footer*/
+footer{
+    color: white;
+    background-color: black;
+}
+
 .footer-body{
     display: flex;
     justify-content: space-between;
+}
+
+.footer-header{
+    font-weight: bold;
 }
 
 .download, .social, .subscribe, .support, .tools, .legal-and-privacy{
