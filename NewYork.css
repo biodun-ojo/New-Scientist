@@ -69,6 +69,8 @@ h6{
 
 .main-body{
     width: 750px;
+    padding: 0;
+    margin: 0;
 }
 /* the end of the main part */
 
