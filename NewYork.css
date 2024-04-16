@@ -53,6 +53,16 @@ a{
 
 
 /* the main body part */
+.oga-body{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.form-body{
+    display: flex;
+    flex-direction: column;
+}
+
 .plug-ins{
     display: flex;
     justify-content: space-between;
