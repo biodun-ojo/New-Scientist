@@ -61,6 +61,30 @@ a{
 .form-body{
     display: flex;
     flex-direction: column;
+    padding: 50px;
+    background-color: rgb(230, 230, 230);
+    height: fit-content;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+#email{
+    margin-left: 25px;
+}
+
+.comment-form{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px 10px 0px;
+}
+
+.subscribe-form{
+    align-items: center;
+    margin: 10px 0px 10px 0px;
+}
+
+button{
+    width: 100px;
 }
 
 .plug-ins{
