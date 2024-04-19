@@ -1,5 +1,6 @@
 # NEW SCIENTIST
 -- AUTHORED BY ORETOLUWASE
+
 -This project is a starting point for a webpage inspired by the design of New Scientist, built with HTML and CSS.
 
 What's Included
@@ -9,7 +10,6 @@ What's Included
 What's Not Included (Yet)
 -Images or other multimedia elements.
 -Dynamic content or interactive features.
--Getting Started
 
 Clone or download the repository.
 -Open the index.html file in a text editor or code editor that supports HTML.
