@@ -66,7 +66,7 @@ a {
   height: fit-content;
   margin-top: 20px;
   border-radius: 20px;
-  box-shadow: 10px 10px 16px 0px;
+  box-shadow: 10px 10px 16px 0;
 }
 
 #email {
@@ -76,12 +76,12 @@ a {
 .comment-form {
   display: flex;
   flex-direction: column;
-  margin: 10px 0px 10px 0px;
+  margin: 10px 0 10px 0;
 }
 
 .subscribe-form {
   align-items: center;
-  margin: 10px 0px 10px 0px;
+  margin: 10px 0 10px 0;
 }
 
 button {
@@ -98,7 +98,7 @@ h6 .main-body-header .the-link .date {
   margin: 5px;
 }
 
-h6{
+h6 {
   font-size: 20px;
 }
 
@@ -110,7 +110,7 @@ h6{
 
 /* the end of the main part */
 
-/* the second part*/
+/* the second part */
 .second-body {
   background-color: rgb(16, 41, 61);
 }
@@ -148,18 +148,18 @@ h6{
   padding: 10px;
 }
 
-/*the end of the second part */
+/* the end of the second part */
 
-/* the third part*/
+/* the third part */
 .third-body-head {
   display: flex;
   justify-content: left;
   align-items: center;
-}    
+}
 
 .colour-box {
   background-color: rgb(81, 160, 117);
-  border-radius: 20px 0px 0px 0px;
+  border-radius: 20px 0 0 0;
   height: 60px;
   width: 60px;
   margin-left: 10px;
@@ -194,9 +194,9 @@ h6{
   color: rgb(81, 160, 117);
 }
 
-/*the end of the third part*/
+/* the end of the third part */
 
-/*the footer*/
+/* the footer */
 footer {
   color: white;
   background-color: black;
@@ -215,4 +215,4 @@ footer {
   display: flex;
   flex-direction: column;
 }
-/*the end of the body*/
+/* the end of the body */
