@@ -1,6 +1,6 @@
 
 /* the header part */
-header { 
+header{
   border-bottom: 1px solid;
   border-color: blue;
 }
@@ -184,7 +184,7 @@ h6{
     justify-content: space-between;
 }
 
-.th1, .th2, .th3, .th4, .th5, .th6, .th7, .th8, .th9, .th10{
+.th1 .th2 .th3 .th4 .th5 .th6 .th7 .th8 .th9 .th10{
     display: flex;
     flex-direction: row;
     width: 300px;
