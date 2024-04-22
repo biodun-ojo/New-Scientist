@@ -141,7 +141,6 @@ h6 {
   height: auto;
   border-radius: 20px;
   justify-content: space-between;
-
 }
 
 .pic-par-1 .pic-par-2 .pic-par-3 .pic-par-4 {
@@ -215,4 +214,5 @@ footer {
   display: flex;
   flex-direction: column;
 }
+
 /* the end of the body */
