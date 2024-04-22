@@ -1,41 +1,41 @@
 
 /* the header part */
 header {
-    border-bottom: 1px solid;
-    border-color: blue;
+  border-bottom: 1px solid;
+  border-color: blue;
 }
 
 a{
-    padding: 10px;
+  padding: 10px;
 }
 
 .header-first-line{
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
 }
 
 .new-scientic{
-    font-size: 29px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 29px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .sign-in, .search-bar, .theme, .the-bar{
-    border: 1px solid;
-    border-radius: 20px;
-    border-color: rgb(57, 57, 117);
-    padding: 10px;
+  border: 1px solid;
+  border-radius: 20px;
+  border-color: rgb(57, 57, 117);
+  padding: 10px;
 }
 
 .explore-section{
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .explore-topic{
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .subscribe-button{
