@@ -16,8 +16,8 @@ HTML <br> CSS
 
 👤 **ORETOLUWASE**
 
-- GitHub: [@YinkTech](https://github.com/biodun-ojo)
-- Twitter: [@YinkTech](https://twitter.com/GeexBunny)
+- GitHub: [@biodun-ojo](https://github.com/biodun-ojo)
+- Twitter: [@biodun-ojo](https://twitter.com/GeexBunny)
 
 ## 🤝 Contributing
 
