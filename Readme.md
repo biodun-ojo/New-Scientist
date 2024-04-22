@@ -1,32 +1,30 @@
 # NEW SCIENTIST
--- AUTHORED BY ORETOLUWASE
 
--This project is a starting point for a webpage inspired by the design of New Scientist, built with HTML and CSS.
+# NewYorkTime article page clone
+> A [New scientist Article](https://www.newscientist.com/article/2286218-ancient-lake-in-marss-gale-crater-may-have-actually-been-a-small-pond/) page clone milestone 
 
+![screenshot](picture.png)
 
-What's Included
+## Built With 
+HTML <br> CSS
 
--Basic HTML structure for a webpage layout, including sections for header, navigation, content, and footer.
+## Live Demo
 
--CSS styles for fonts, colors, and layout to achieve a clean and modern look.
+[Live Demo link](https://biodun-ojo.github.io/New-Scientist/)
 
+## Authors
 
-What's Not Included (Yet)
+👤 **ORETOLUWASE**
 
--Images or other multimedia elements.
+- GitHub: [@biodun-ojo](https://github.com/biodun-ojo)
+- Twitter: [@biodun-ojo](https://twitter.com/GeexBunny)
 
--Dynamic content or interactive features.
+## 🤝 Contributing
 
+Contributions, issues, and feature requests are welcome!
 
-Clone or download the repository.
+Feel free to check the [issues page](https://github.com/biodun-ojo/New-Scientist/issues).
 
--Open the index.html file in a text editor or code editor that supports HTML.
+## Show your support
 
--Open the styles.css file in a text editor or code editor that supports CSS.
-
--View the index.html file in a web browser to see the basic layout of the webpage.
-
-
-Explore and Customize
-
--Feel free to modify the HTML structure to add new sections or rearrange existing ones. Experiment with the CSS styles to create your own unique look and feel. Make this webpage your own!
+Give a ⭐️ if you like this project!
