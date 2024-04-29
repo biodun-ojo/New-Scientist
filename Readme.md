@@ -3,6 +3,7 @@
 # NewYorkTime article page clone
 > A [New scientist Article](https://www.newscientist.com/article/2286218-ancient-lake-in-marss-gale-crater-may-have-actually-been-a-small-pond/) page clone milestone 
 
+![screenshot](/images/picture.png)
 
 ## Built With 
 HTML <br> CSS
